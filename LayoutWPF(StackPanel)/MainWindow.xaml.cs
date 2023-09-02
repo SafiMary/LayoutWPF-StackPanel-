@@ -22,6 +22,7 @@ namespace LayoutWPF_StackPanel_
     {
         public MainWindow()
         {
+
             InitializeComponent();
         }
     }
